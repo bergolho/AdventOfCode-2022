@@ -2,8 +2,9 @@
     Advent of Code 2022 - Programming Contest (https://adventofcode.com/2022)
     Author: Lucas Berg (@bergolho)
 ------------------------------------------------------
-    --- Day 4: Camp Cleanup ---
+    --- Day 5: Supply Stacks ---
         - C++ solution
+        - Rewritten the input of the stacks (problem input is a joke, right?!)
 */
 
 #include <iostream>
