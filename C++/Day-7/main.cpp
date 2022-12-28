@@ -1,3 +1,12 @@
+/*
+    Advent of Code 2022 - Programming Contest (https://adventofcode.com/2022)
+    Author: Lucas Berg (@bergolho)
+------------------------------------------------------
+    --- Day 7: No Space Left On Device ---
+        - C++ solution
+*/
+
+
 #include <iostream>
 #include <vector>
 #include <map>
